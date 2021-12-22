@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fabriciombc
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning javaScript, jQuery and bootStrap
-- 💞️ I’m looking to collaborate on frontend projects
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning Java Full Stack
+- 💞️ I’m looking to collaborate on Ruby on Rails Projects
 - 📫 How to reach me fabriciombc@gmail.com
 
 <!---
